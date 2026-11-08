@@ -16,8 +16,8 @@ You can contanct me in multiple ways:
 - `switalamaciej5[at]gmail.com`
 
 ***Discord***
-- `cashtan`
+- `chasenut`
 
 ***Github***
-- `chasenut`
+- `swimac`
 
