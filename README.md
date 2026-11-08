@@ -94,10 +94,10 @@ For any additional info and contribution, please contanct me:
 - `switalamaciej5[at]gmail.com`
 
 ***Discord***
-- `cashtan`
+- `chasenut`
 
 ***Github***
-- `chasenut`
+- `swimac`
 
 ## Some fun specs
 
